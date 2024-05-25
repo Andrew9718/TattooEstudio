@@ -1,0 +1,6 @@
+@CoolTattooApi_HostAddress = http://localhost:5145
+
+GET {{CoolTattooApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
